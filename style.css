@@ -1,41 +1,24 @@
 * {
     font-family: 'Roboto';
 }
-.topnav {
-    background-color: #ffffff;
-    overflow: hidden;
-}
 
-    .topnav a {
-        float: left;
-        color: #f2f2f2;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-    }
-
-.topnav a login {
-    background-color: #D6000D;
-}
-
-        .topnav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-
-        .topnav a.active {
-            background-color: #4CAF50;
-            color: white;
-        }
 .title {
     padding: 10px;
     color: #D6000D;
 }
-.list {
-    padding-top:400px;
-}
 
+.list {
+    padding-top: 300px;
+}
+        .list li {
+            background-image: url('assets/ok_red_icon.png');
+            list-style-position: inside;
+            display: inline-block;
+            background-size: contain;
+            background-repeat: no-repeat;
+            padding-left:30px;
+            color:black;
+        }
 .img {
     padding-top: 150px;
     display: block;
@@ -53,6 +36,7 @@
 .description text{
     text-align:left;
 }
+
 .items {
     text-align: right;
 }
