@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\design"
   ],
-  "SelectedNode": "\\style.css",
+  "SelectedNode": "\\assets",
   "PreviewInSolutionExplorer": false
 }
