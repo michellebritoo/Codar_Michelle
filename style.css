@@ -51,10 +51,20 @@
 }
 
 .form{
-    margin-top:200px;
-    margin-left:40px;
+    margin-top:150px;
+    margin-left:30px;
 }
 
 .depoiments {
     margin-top: 200px;
+}
+
+.finalDiv {
+    position: absolute;
+    background-color:black;
+    color:white;
+    padding:150px;
+    padding-left:200px;
+    padding-right:210px;
+    margin-left:-15px;
 }
