@@ -10,32 +10,41 @@
 .list {
     padding-top: 300px;
 }
-        .list li {
-            background-image: url('assets/ok_red_icon.png');
-            list-style-position: inside;
-            display: inline-block;
-            background-size: contain;
-            background-repeat: no-repeat;
-            padding-left:30px;
-            color:black;
-        }
+
+    .list li {
+        background-image: url('assets/ok_red_icon.png');
+        list-style-position: inside;
+        display: inline-block;
+        background-size: contain;
+        background-repeat: no-repeat;
+        padding-left: 30px;
+        color: black;
+    }
+
 .img {
     padding-top: 150px;
     display: block;
     float: left;
-    margin-left:90px;
+    margin-left: 90px;
+}
+
+.imgm {
+    display: block;
+    float: right;
+    margin-top:-300px;
+    margin-right:100px;
 }
 
 .description {
     text-align: left;
     padding-top: 250px;
     margin-left: 600px;
-    margin-bottom:auto;
+    margin-bottom: auto;
 }
 
-.description text{
-    text-align:left;
-}
+    .description text {
+        text-align: left;
+    }
 
 .items {
     text-align: right;
