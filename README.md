@@ -18,7 +18,7 @@
 </p>
 <br />
 
-# [Project prototype in Netlify.app](https://codarmichelle.netlify.app/)
+# :rocket: [Project prototype in Netlify.app](https://codarmichelle.netlify.app/)
 
 # Techs: 
 ### :white_check_mark: HTML 
