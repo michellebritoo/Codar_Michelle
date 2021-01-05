@@ -16,11 +16,15 @@
     <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
   </p>
 </p>
+<br />
+
+# :rocket: [Project prototype in Netlify.app](https://codarmichelle.netlify.app/)
 
 # Techs: 
 ### :white_check_mark: HTML 
 ### :white_check_mark: CSS
 ### :white_check_mark: Bootstrap - CSS
+---
 
 # Mockup template:
 <img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
