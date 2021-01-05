@@ -1,4 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/michellebritoo/Codar_Michelle?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/michellebritoo/Codar_Michelle?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/michellebritoo/Codar_Michelle?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/michellebritoo/Codar_Michelle?style=for-the-badge) [![Netlify Status](https://api.netlify.com/api/v1/badges/1a0fac4f-29d3-420d-b61e-018aab4b5da9/deploy-status)](https://app.netlify.com/sites/codarmichelle/deploys)
+
 <br />
 <p align="center">
   <a href="http://www.freepik.com">
