@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/michellebritoo/Codar_Michelle?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/michellebritoo/Codar_Michelle?style=for-the-badge)
 <br />
 <p align="center">
   <a href="http://www.freepik.com">
@@ -17,14 +18,11 @@
 </p>
 
 
+# Screen:
 <img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
 
 # Techs: 
-HTML<br>
-CSS
-
-# Requisitos:
-- Sua página deve se parecer o mais próximo possível ao modelo que está disponível na pasta "design"<br>
-- Sua página deve ser responsiva
+### :white_check_mark: HTML 
+### :white_check_mark: CSS
 
 Challenge by <a href="https://github.com/Lorenalgm">Lorena</a> :)
