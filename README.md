@@ -8,21 +8,23 @@
   <h3 align="center">Codar.</h3>
 
   <p align="center">
-    Desafio - Site de uma empresa que desenvolve sites
+    Challenge - Website of a company that develops websites
        <br />
     <br />
-    <a href="https://github.com/Lorenalgm/codar">Desafio</a>
+    <a href="https://github.com/Lorenalgm/codar">Challenge</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contato</a>
+    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
   </p>
 </p>
-
-
-# Screen:
-<img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
 
 # Techs: 
 ### :white_check_mark: HTML 
 ### :white_check_mark: CSS
+### :white_check_mark: Bootstrap - CSS
 
-Challenge by <a href="https://github.com/Lorenalgm">Lorena</a> :)
+# Mockup template:
+<img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
+
+# Results:
+
+Challenge created by <a href="https://github.com/Lorenalgm">Lorena</a> :)
