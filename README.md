@@ -33,6 +33,6 @@
 # Results:
 <img src="https://github.com/michellebritoo/Codar_Michelle/blob/master/design/GeneralPageCodar.gif" width="580" height="380">
 <img src="https://github.com/michellebritoo/Codar_Michelle/blob/master/design/NavbarCodar.gif" width="580" height="380">
----
+<br/>
 
 Challenge created by <a href="https://github.com/Lorenalgm">Lorena</a> :)
