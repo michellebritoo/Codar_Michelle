@@ -19,7 +19,7 @@
 </p>
 <br />
 
-# :rocket: [Project prototype in Netlify.app](https://codarmichelle.netlify.app/)
+## :rocket: [Project prototype in Netlify.app](https://codarmichelle.netlify.app/)
 
 # Techs: 
 ### :white_check_mark: HTML 
@@ -31,5 +31,8 @@
 <img src="https://i.ibb.co/wpnzvcs/codar-desktop.jpg" width="580" height="380">
 
 # Results:
+<img src="https://github.com/michellebritoo/Codar_Michelle/blob/master/design/GeneralPageCodar.gif" width="580" height="380">
+<img src="https://github.com/michellebritoo/Codar_Michelle/blob/master/design/NavbarCodar.gif" width="580" height="380">
+<br/>
 
 Challenge created by <a href="https://github.com/Lorenalgm">Lorena</a> :)
